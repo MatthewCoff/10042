@@ -6,7 +6,7 @@ using namespace std;
 class Vse {
 
 
-class FileWork
+class File 
 {
 public:
 	bool readFile(string file, string& infor)
@@ -29,7 +29,7 @@ public:
 };
 
 
-class DataProcessing
+class Work
 {
 public:
 	bool RealStructur(const string& infor, vector<string>& data)
