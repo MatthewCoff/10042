@@ -38,10 +38,7 @@ public:
 
 	}
 
-	/*bool RealObrab(vector<string>& data)
-	{
-		cout << "реализация обработки " << endl;
-	}*/
+
 };
 
 
@@ -63,7 +60,7 @@ int main()
 
 	}
 	string fileReal;
-	string fileReal2;
+	
 
 
 	if (file.readFile(Name, fileReal)) {
