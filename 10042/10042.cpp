@@ -3,7 +3,7 @@
 #include <string>
 #include <Windows.h>
 using namespace std;
-class Vse {
+
 
 
 class File 
@@ -46,13 +46,11 @@ public:
 
 
 
-};
 
 int main()
 {
 	setlocale(LC_ALL, "Russian");
 
-	Vse vs;
-	
+
 
 }
